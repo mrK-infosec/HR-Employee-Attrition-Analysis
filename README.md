@@ -40,3 +40,8 @@ Python · Pandas · Scikit-learn · Matplotlib · Seaborn
 - hr_analysis.ipynb
 - hr_dashboard.png
 - attrition_factors.png
+
+<img width="1390" height="985" alt="image" src="https://github.com/user-attachments/assets/abc32c04-da44-4de8-aa24-5a113aa901d2" />
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/50feffc0-00e0-477d-a677-3630fc211263" />
+
+
